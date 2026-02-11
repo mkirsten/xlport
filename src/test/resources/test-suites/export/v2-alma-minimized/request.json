@@ -1,0 +1,33 @@
+{
+  "templateId": "scorecard-export/template.xlsx",
+  "data": {
+    "KPIs": [
+      {
+        "Category": "Category 1",
+        "KPI": "KPI 1",
+        "Id": 1
+      },
+      {
+        "Category": "Category 1",
+        "KPI": "KPI 2",
+        "Id": 2
+      },
+      {
+        "Category": "Category 2",
+        "KPI": "KPI 3",
+        "Id": 3
+      }
+    ],
+    "sheets": [
+      {
+        "name": "AA",
+        "fromTemplateSheet": "Template",
+        "data": {
+          "ScorecardPeriodId": "1",
+          "ScorecardName": "Sample Scorecard",
+          "PeriodName": "Q1/2022"  
+        }
+      }
+     ]
+  }
+}

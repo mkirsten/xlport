@@ -1,0 +1,97 @@
+{
+  "templateId": "v2-multi-sheet-column-simple-dash/template.xlsx",
+  "data": {
+    "sheets": [
+      {
+        "name": "Copy-1",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#FF0000",
+        "data": {
+          "NamedRange": "Test1",
+          "Data": [
+            {
+              "Col1": "1",
+              "Col2": "2"
+            },
+            {
+              "Col1": "3",
+              "Col2": "4"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Copy+2",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#FF0000",
+        "data": {
+          "NamedRange": "Test2",
+          "Data": [
+            {
+              "Col1": "5",
+              "Col2": "6"
+            },
+            {
+              "Col1": "7",
+              "Col2": "8"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Copy 3",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#FF0000",
+        "data": {
+          "NamedRange": "Test3",
+          "Data": [
+            {
+              "Col1": "5",
+              "Col2": "6"
+            },
+            {
+              "Col1": "7",
+              "Col2": "8"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Copy_4",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#00FF00",
+        "data": {
+          "NamedRange": "Test4",
+          "Data": [
+            {
+              "Col1": "5",
+              "Col2": "6"
+            },
+            {
+              "Col1": "7",
+              "Col2": "8"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Copy5",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#00FF00",
+        "data": {
+          "NamedRange": "Test5",
+          "Data": [
+            {
+              "Col1": "5",
+              "Col2": "6"
+            },
+            {
+              "Col1": "7",
+              "Col2": "8"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

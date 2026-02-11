@@ -1,0 +1,24 @@
+{
+  "templateId": "multi-column-with-fixed-column/template.xlsx",
+  "data": {
+    "Data": {
+      "columns": [
+        { "name" : "Fixed" },
+        { "name": "colCopy1", "fromTemplateColumn": "TemplateColumn" },
+        { "name": "colCopy2", "fromTemplateColumn": "TemplateColumn" }
+      ],
+      "data": [
+        {
+          "Fixed": "a",
+          "colCopy1": "1",
+          "colCopy2": "2"
+        },
+        {
+          "Fixed": "b",
+          "colCopy1": "3",
+          "colCopy2": "4"
+        }
+      ]
+    }
+  }
+}

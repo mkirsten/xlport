@@ -1,0 +1,711 @@
+{
+  "templateId": "template-4col.xlsx",
+  "fileName": "Test for 4 columns",
+  "data": {
+    "ProjectId": "5c4617bf8e6af984517037d0",
+    "ProjectLabel": "Eplosion",
+    "LastUpdated": "2003-11-14T03:11:04+00:00",
+    "Indicators": [
+      {
+        "Id": "5c4617bf8881b9452b7499d9",
+        "Field1": "5c4617bf04ec2f10a3f51289",
+        "Field2": "5c4617bf98e63f85ec44624e",
+        "Field3": "5c4617bf134edfe8c098807a",
+        "Field4": "48332291.97"
+      },
+      {
+        "Id": "5c4617bfe3aabb636b8205c0",
+        "Field1": "5c4617bff207e47cf691aa3b",
+        "Field2": "5c4617bfc671e4c97c2ec684",
+        "Field3": "5c4617bf9c584fbea3ce8412",
+        "Field4": "88486555.36"
+      },
+      {
+        "Id": "5c4617bf2f86c5ec1e81db09",
+        "Field1": "5c4617bf9c38df6671625623",
+        "Field2": "5c4617bf0d9381b75972f9b6",
+        "Field3": "5c4617bf4ce7d08e268b53ff",
+        "Field4": "67503798.52"
+      },
+      {
+        "Id": "5c4617bfaa1ed1891d6554a7",
+        "Field1": "5c4617bf426bed2f88286daa",
+        "Field2": "5c4617bf0b7f7be3c18d0547",
+        "Field3": "5c4617bf8848eb7955f90a40",
+        "Field4": "69495108.57"
+      },
+      {
+        "Id": "5c4617bff88bcaa61dade984",
+        "Field1": "5c4617bf6dca8ed4b83c7105",
+        "Field2": "5c4617bf2bcdda3f1e8bd669",
+        "Field3": "5c4617bf9059b8545159d7cb",
+        "Field4": "24742397.66"
+      },
+      {
+        "Id": "5c4617bf9b04bed736a98f17",
+        "Field1": "5c4617bf1276e1cec8fb497e",
+        "Field2": "5c4617bf07d5befe4f003af5",
+        "Field3": "5c4617bfbcdb76bc42f1c5d6",
+        "Field4": "34921412.59"
+      },
+      {
+        "Id": "5c4617bf2ea7b83a7dfb1669",
+        "Field1": "5c4617bf3857cb51879aebf7",
+        "Field2": "5c4617bf8054df8f59f7ff5d",
+        "Field3": "5c4617bf4d47089270f7f514",
+        "Field4": "61866221.83"
+      },
+      {
+        "Id": "5c4617bf55d020bf15701089",
+        "Field1": "5c4617bf195c120d57e78f30",
+        "Field2": "5c4617bf13c5214691947c57",
+        "Field3": "5c4617bf7ca4725589566a3f",
+        "Field4": "40237812.8"
+      },
+      {
+        "Id": "5c4617bfa3a52e4c4c1fe082",
+        "Field1": "5c4617bfb554cd07c687832d",
+        "Field2": "5c4617bfa00e5a36aa936a0d",
+        "Field3": "5c4617bff70d1517fd586a3d",
+        "Field4": "19977264.07"
+      },
+      {
+        "Id": "5c4617bff9ebf764ba9b151f",
+        "Field1": "5c4617bf9386e3d56ada29db",
+        "Field2": "5c4617bfe36be21e7c97d28d",
+        "Field3": "5c4617bfbbb7f99674fb7f43",
+        "Field4": "96478295.62"
+      },
+      {
+        "Id": "5c4617bf74cf50f2063d5b60",
+        "Field1": "5c4617bf48e8e720b6658035",
+        "Field2": "5c4617bf5e75a8c50f163003",
+        "Field3": "5c4617bf5fedf24a24cd2f62",
+        "Field4": "-227977.32"
+      },
+      {
+        "Id": "5c4617bf5a0f6f2e1319c3c2",
+        "Field1": "5c4617bf096989f483786eee",
+        "Field2": "5c4617bf19b0b0aa92c4421a",
+        "Field3": "5c4617bfb5faabb302c75096",
+        "Field4": "57540106.19"
+      },
+      {
+        "Id": "5c4617bf90cc03c05454b4a1",
+        "Field1": "5c4617bfaa9e239d47a07b97",
+        "Field2": "5c4617bf6fa81b30757d25fe",
+        "Field3": "5c4617bff3bf6f3e3d36abd9",
+        "Field4": "39320022.14"
+      },
+      {
+        "Id": "5c4617bf60675329c857ef30",
+        "Field1": "5c4617bfbc7ac92b86f0df69",
+        "Field2": "5c4617bfeb5f834ec699eba3",
+        "Field3": "5c4617bff0e43f9b13bdcc9e",
+        "Field4": "68651932.44"
+      },
+      {
+        "Id": "5c4617bf3621cac49dc4d0f8",
+        "Field1": "5c4617bf47118bafe3463568",
+        "Field2": "5c4617bf3c42d2d5baf49794",
+        "Field3": "5c4617bfe89c9ff294986a2f",
+        "Field4": "63911338.33"
+      },
+      {
+        "Id": "5c4617bf289b78e96a7ed7fe",
+        "Field1": "5c4617bfeb0de72b8d527819",
+        "Field2": "5c4617bfc2a8cbd4fd4aab8f",
+        "Field3": "5c4617bf9b1d780474013a54",
+        "Field4": "8180561.64"
+      },
+      {
+        "Id": "5c4617bf879fde20db0197ce",
+        "Field1": "5c4617bf706acba40ade0d1f",
+        "Field2": "5c4617bf2577bc6ac01dd318",
+        "Field3": "5c4617bfcaf03499d9bd1045",
+        "Field4": "12647279.01"
+      },
+      {
+        "Id": "5c4617bf7d39163df66ab357",
+        "Field1": "5c4617bf855e27ebc64deaf5",
+        "Field2": "5c4617bfc5e8f7a0d8856efb",
+        "Field3": "5c4617bfcae077a93b035f07",
+        "Field4": "35714082.57"
+      },
+      {
+        "Id": "5c4617bf195b76384caadd02",
+        "Field1": "5c4617bf7b9213ce85d7a00d",
+        "Field2": "5c4617bf61df015843be1bbb",
+        "Field3": "5c4617bfe6f443afa5abaa5b",
+        "Field4": "49729776.71"
+      },
+      {
+        "Id": "5c4617bf436309ac9ed969fa",
+        "Field1": "5c4617bf788755f68c466850",
+        "Field2": "5c4617bf07bd7863d0a02bfc",
+        "Field3": "5c4617bf668833bbffc6c888",
+        "Field4": "42546271.56"
+      },
+      {
+        "Id": "5c4617bfed6048f9283d5e10",
+        "Field1": "5c4617bf9fd1a6decd360c15",
+        "Field2": "5c4617bf19767b793258f9ae",
+        "Field3": "5c4617bfeb7a8d87e942bace",
+        "Field4": "90178584.42"
+      },
+      {
+        "Id": "5c4617bff1d3ba229eccf994",
+        "Field1": "5c4617bf252da7b03203e1c6",
+        "Field2": "5c4617bf03efa40b3234ba4e",
+        "Field3": "5c4617bfc0442d887713b555",
+        "Field4": "54611101.28"
+      },
+      {
+        "Id": "5c4617bf452384cf167d754b",
+        "Field1": "5c4617bfd674590d7f41ecf9",
+        "Field2": "5c4617bf49a9d148db7e4c77",
+        "Field3": "5c4617bf086755b46684e67f",
+        "Field4": "61109006.39"
+      },
+      {
+        "Id": "5c4617bf23c5107e3c18e64d",
+        "Field1": "5c4617bf76b0771e59fd0f19",
+        "Field2": "5c4617bf206423ac9badd3b3",
+        "Field3": "5c4617bf4ea56229ce083c0e",
+        "Field4": "52545621.04"
+      },
+      {
+        "Id": "5c4617bf8e5d4af686883693",
+        "Field1": "5c4617bfac69d1995582944b",
+        "Field2": "5c4617bf0fdf3a196351fd6e",
+        "Field3": "5c4617bfc299a869c7b32b67",
+        "Field4": "23289493.69"
+      },
+      {
+        "Id": "5c4617bfce1bd3a1a3e865c4",
+        "Field1": "5c4617bffb4910b89abf95e1",
+        "Field2": "5c4617bfb3dec4a7385170a5",
+        "Field3": "5c4617bfc6848d4666a818a5",
+        "Field4": "-7530.02"
+      },
+      {
+        "Id": "5c4617bfabb6696628c16d3c",
+        "Field1": "5c4617bf9b3618fac54c5f25",
+        "Field2": "5c4617bf8b56dcd8050311da",
+        "Field3": "5c4617bfcfc1fe3c6b6e3ca5",
+        "Field4": "77872451.39"
+      },
+      {
+        "Id": "5c4617bf5065a3d5a6b7b218",
+        "Field1": "5c4617bfdc839ba1c9c5dbca",
+        "Field2": "5c4617bf05e09b9382d15e2a",
+        "Field3": "5c4617bf023b3dafcc755e11",
+        "Field4": "2890816.5"
+      },
+      {
+        "Id": "5c4617bfcc7ff0a1943ea98c",
+        "Field1": "5c4617bf2fd3060c5e8351dc",
+        "Field2": "5c4617bf3e132db402cb8e27",
+        "Field3": "5c4617bfff78b8222da7ed8d",
+        "Field4": "9096989.04"
+      },
+      {
+        "Id": "5c4617bf4f6fcd72b5782fe7",
+        "Field1": "5c4617bf89e7da4107f6668d",
+        "Field2": "5c4617bf31e6f48b1f218909",
+        "Field3": "5c4617bff56c54233054617d",
+        "Field4": "43417286.47"
+      },
+      {
+        "Id": "5c4617bf3e22cdf9fd1ca082",
+        "Field1": "5c4617bf513852529ddb8d94",
+        "Field2": "5c4617bf2927dcfada075649",
+        "Field3": "5c4617bf78952e642ba78bc5",
+        "Field4": "83942480.16"
+      },
+      {
+        "Id": "5c4617bf836d4b863bc67e5c",
+        "Field1": "5c4617bf49ead62c25294af7",
+        "Field2": "5c4617bf5b1b3f726d9b1c56",
+        "Field3": "5c4617bf785b41101e7b55ca",
+        "Field4": "25084626.71"
+      },
+      {
+        "Id": "5c4617bfef3dfb9e6b9b255a",
+        "Field1": "5c4617bfc36003bf5588d417",
+        "Field2": "5c4617bfa8e29dc874bfb0d8",
+        "Field3": "5c4617bfae12def5bcc5b2eb",
+        "Field4": "40662981.99"
+      },
+      {
+        "Id": "5c4617bf5c6c91fbfb10a384",
+        "Field1": "5c4617bff8072fb63ef9701a",
+        "Field2": "5c4617bf65283b3491e2e66d",
+        "Field3": "5c4617bff7dd7805aabd4ef1",
+        "Field4": "63699086.27"
+      },
+      {
+        "Id": "5c4617bf4f1e26fb19648ff4",
+        "Field1": "5c4617bf3dd9f4de373ab207",
+        "Field2": "5c4617bf908e616e7ede1b2c",
+        "Field3": "5c4617bfbb5441c4da51ea68",
+        "Field4": "29730969.72"
+      },
+      {
+        "Id": "5c4617bfe609caca2ea6944f",
+        "Field1": "5c4617bf51d175bf1088ef7a",
+        "Field2": "5c4617bf580e8cb5a6feb34e",
+        "Field3": "5c4617bf668700fe557ca1af",
+        "Field4": "99556691.28"
+      },
+      {
+        "Id": "5c4617bf5a38983fcb4e1f36",
+        "Field1": "5c4617bffcd657b19c9f1d53",
+        "Field2": "5c4617bf9b77b3ecc4ef94a3",
+        "Field3": "5c4617bfa6d7c682bb19ec3e",
+        "Field4": "18430284.82"
+      },
+      {
+        "Id": "5c4617bff457ca77309a5934",
+        "Field1": "5c4617bf9c0af0b9ed684a69",
+        "Field2": "5c4617bf00f4c7c654254894",
+        "Field3": "5c4617bfae8115ea45e51b7b",
+        "Field4": "77004183.63"
+      },
+      {
+        "Id": "5c4617bff759f63ce1cda797",
+        "Field1": "5c4617bfac4e4f20c85ba954",
+        "Field2": "5c4617bf8c10166d7ca7175a",
+        "Field3": "5c4617bf8427591d01b9d278",
+        "Field4": "84947000.77"
+      },
+      {
+        "Id": "5c4617bf5f980f6ae8a8206a",
+        "Field1": "5c4617bf34790860022c32e6",
+        "Field2": "5c4617bff22c7a222c996754",
+        "Field3": "5c4617bf74e10528e1ca2039",
+        "Field4": "61535265.15"
+      },
+      {
+        "Id": "5c4617bfb4121bfa76ec34f8",
+        "Field1": "5c4617bf02ac2c6bf7d9f5e8",
+        "Field2": "5c4617bf9a2e43cc6fbd4cbe",
+        "Field3": "5c4617bfb3dacc4f007b701b",
+        "Field4": "30422068.25"
+      },
+      {
+        "Id": "5c4617bf38cb084c063d86fd",
+        "Field1": "5c4617bfdc17ae6320cfcd29",
+        "Field2": "5c4617bf7b62491ddee8c528",
+        "Field3": "5c4617bfac2a122f1765e52b",
+        "Field4": "42979465.73"
+      },
+      {
+        "Id": "5c4617bf4548d4decfab069d",
+        "Field1": "5c4617bf1a1fbe6163de2e21",
+        "Field2": "5c4617bf1e0f66f0d9bf9632",
+        "Field3": "5c4617bfd04c5ce92a4a0230",
+        "Field4": "5541765.19"
+      },
+      {
+        "Id": "5c4617bff631d20ad89a5993",
+        "Field1": "5c4617bf026162395a7fa0f3",
+        "Field2": "5c4617bf827e28a272f156b1",
+        "Field3": "5c4617bfabcab0497ba198ea",
+        "Field4": 65815438
+      },
+      {
+        "Id": "5c4617bfedb50a59ed38b327",
+        "Field1": "5c4617bfdeb902fd38fdfe76",
+        "Field2": "5c4617bf47819dc441faca14",
+        "Field3": "5c4617bfdc0944385b241319",
+        "Field4": "92463697.2"
+      },
+      {
+        "Id": "5c4617bf4d6894a4ff14c34a",
+        "Field1": "5c4617bf1bc0e8df11b82f0e",
+        "Field2": "5c4617bfa6bf3a08fe5196a2",
+        "Field3": "5c4617bf2b072c6d32fbb2c7",
+        "Field4": "75181120.66"
+      },
+      {
+        "Id": "5c4617bf7e1385cab1a1d344",
+        "Field1": "5c4617bfc47415190d0fd84b",
+        "Field2": "5c4617bf62e6163267d18723",
+        "Field3": "5c4617bfb43449a979a79f76",
+        "Field4": "99677782.63"
+      },
+      {
+        "Id": "5c4617bffdfa6ab5343330f7",
+        "Field1": "5c4617bfe0c955f27a45da80",
+        "Field2": "5c4617bfc668f3fc1533894d",
+        "Field3": "5c4617bfd99e16a97b128352",
+        "Field4": "93144166.02"
+      },
+      {
+        "Id": "5c4617bf6745306eb058346d",
+        "Field1": "5c4617bf0590591b64bd2d00",
+        "Field2": "5c4617bf49d8a91d4bc907be",
+        "Field3": "5c4617bf48b1802e6056311c",
+        "Field4": "29252863.59"
+      },
+      {
+        "Id": "5c4617bf240717c8091a505a",
+        "Field1": "5c4617bf5971f7e5266e9245",
+        "Field2": "5c4617bf4c3127255a37a8d7",
+        "Field3": "5c4617bf2f039f6826cbc354",
+        "Field4": "28662910.12"
+      },
+      {
+        "Id": "5c4617bf9d214b174dfbf17b",
+        "Field1": "5c4617bf41f9d33c0bda9b6a",
+        "Field2": "5c4617bfaf3f2c91f8e5cef1",
+        "Field3": "5c4617bfdd829620b63530ab",
+        "Field4": "2442515.63"
+      },
+      {
+        "Id": "5c4617bfbb24b38886866dae",
+        "Field1": "5c4617bf3a5afd55a730757a",
+        "Field2": "5c4617bfb15c787b980beb1f",
+        "Field3": "5c4617bf9a9da61c64b3cd4e",
+        "Field4": "68955264.4"
+      },
+      {
+        "Id": "5c4617bfd97f4d754340f93a",
+        "Field1": "5c4617bf2d00ba38e8285f1a",
+        "Field2": "5c4617bf50b7141c46ee0d1a",
+        "Field3": "5c4617bf191faa03fb296c0c",
+        "Field4": "477459.55"
+      },
+      {
+        "Id": "5c4617bf2768dd1742f0f045",
+        "Field1": "5c4617bfe44e50b53b70a439",
+        "Field2": "5c4617bfe8a630931ffca8dd",
+        "Field3": "5c4617bfbc3868b606cfd044",
+        "Field4": "9862857.47"
+      },
+      {
+        "Id": "5c4617bfdada5de77d89381f",
+        "Field1": "5c4617bf31ea4e8e11a4cf81",
+        "Field2": "5c4617bfcc1c4984e64d6b53",
+        "Field3": "5c4617bf66491d7dd1c5915f",
+        "Field4": "54415483.85"
+      },
+      {
+        "Id": "5c4617bf87780e979371f902",
+        "Field1": "5c4617bff48df7b5c5666725",
+        "Field2": "5c4617bff7f243c8107beded",
+        "Field3": "5c4617bf34df6b39f016536c",
+        "Field4": "37101836.25"
+      },
+      {
+        "Id": "5c4617bf998ba049f3abfa4c",
+        "Field1": "5c4617bfed6ad9a97dc8bc24",
+        "Field2": "5c4617bf15e90293596e0eee",
+        "Field3": "5c4617bfa312724beef516c7",
+        "Field4": "51736686.72"
+      },
+      {
+        "Id": "5c4617bfb8852dc9fe85d59d",
+        "Field1": "5c4617bfe6aa5165bf3ca758",
+        "Field2": "5c4617bfcc7dcef5f4db4e54",
+        "Field3": "5c4617bfa96892f1bfdc6c10",
+        "Field4": "14340710.37"
+      },
+      {
+        "Id": "5c4617bfc752701c2ec2619e",
+        "Field1": "5c4617bf2cf9a4b16b7906d0",
+        "Field2": "5c4617bfc2cc963a609ef899",
+        "Field3": "5c4617bfe7a585ca204afc5e",
+        "Field4": "27738598.14"
+      },
+      {
+        "Id": "5c4617bf563a4d9a1fc43603",
+        "Field1": "5c4617bf8b48094d7d7caac5",
+        "Field2": "5c4617bf30fc60131ebe969d",
+        "Field3": "5c4617bf2e16b9704b9cae8d",
+        "Field4": "99069654.8"
+      },
+      {
+        "Id": "5c4617bf51d9286d12f4e43c",
+        "Field1": "5c4617bf12d653f2c2d00c77",
+        "Field2": "5c4617bfc98ba4c0830aac73",
+        "Field3": "5c4617bf431e222d41242a5b",
+        "Field4": "34932010.11"
+      },
+      {
+        "Id": "5c4617bf7a3ddcdd5429800f",
+        "Field1": "5c4617bf3c3b4dd666726e5e",
+        "Field2": "5c4617bf8461a5ad7dc21e5f",
+        "Field3": "5c4617bfdfa07171747fcfcc",
+        "Field4": "81020622.13"
+      },
+      {
+        "Id": "5c4617bfa119447c7117a9b6",
+        "Field1": "5c4617bfa03f6460aefd6438",
+        "Field2": "5c4617bf8c3bbc6e9046d466",
+        "Field3": "5c4617bf9be71f52ec137ab4",
+        "Field4": "59793161.78"
+      },
+      {
+        "Id": "5c4617bfe4c6318a5216bb5e",
+        "Field1": "5c4617bfc2c999d7cada762f",
+        "Field2": "5c4617bf8b84798a1c72f850",
+        "Field3": "5c4617bf2ec2b20ec094aefb",
+        "Field4": "58145760.71"
+      },
+      {
+        "Id": "5c4617bfe1809f49ddf03e25",
+        "Field1": "5c4617bfee78c77f35b89dcc",
+        "Field2": "5c4617bf77af3fcff5949772",
+        "Field3": "5c4617bf890b3b42d0754d27",
+        "Field4": "69262126.66"
+      },
+      {
+        "Id": "5c4617bf616c19f29c97ce22",
+        "Field1": "5c4617bffc7585112d201b05",
+        "Field2": "5c4617bfd5d498df90236157",
+        "Field3": "5c4617bfa5b574f2f6834a10",
+        "Field4": "41092606.2"
+      },
+      {
+        "Id": "5c4617bfe803d5fa5ed5937b",
+        "Field1": "5c4617bf1dd4130c4ceab7b4",
+        "Field2": "5c4617bf377af92e9d23f0c3",
+        "Field3": "5c4617bf39c51b28c6f19074",
+        "Field4": "61853492.59"
+      },
+      {
+        "Id": "5c4617bfa49b00a0b3006263",
+        "Field1": "5c4617bfd76fc4d9e44e1b6d",
+        "Field2": "5c4617bf7e28081c695a9235",
+        "Field3": "5c4617bf6191f88f38d46104",
+        "Field4": "33718206.74"
+      },
+      {
+        "Id": "5c4617bfa8e1eab413af574d",
+        "Field1": "5c4617bfd248492d4e02b2ce",
+        "Field2": "5c4617bf22b0f4c44a473a53",
+        "Field3": "5c4617bf565d79fa7b8ae726",
+        "Field4": "2280803.09"
+      },
+      {
+        "Id": "5c4617bf159a5d5bf1e417b1",
+        "Field1": "5c4617bfae6ef618a61e21dd",
+        "Field2": "5c4617bfbabbaf8c937eadce",
+        "Field3": "5c4617bf19afdb4b09e74d63",
+        "Field4": "80243420.56"
+      },
+      {
+        "Id": "5c4617bf33d5bc2f7642b537",
+        "Field1": "5c4617bf995cd533ce7d1216",
+        "Field2": "5c4617bf7198545d71b0ab6a",
+        "Field3": "5c4617bf4c0038fcea618083",
+        "Field4": "65946648.06"
+      },
+      {
+        "Id": "5c4617bfb17f9309c0ad6481",
+        "Field1": "5c4617bfe924e40ffe2f6ea9",
+        "Field2": "5c4617bf87776086e136efab",
+        "Field3": "5c4617bf95b2283636d385f6",
+        "Field4": "78545308.73"
+      },
+      {
+        "Id": "5c4617bf215cdd2a544a1f43",
+        "Field1": "5c4617bf2f1174ec0800ba8f",
+        "Field2": "5c4617bf2495cbcf5c01872d",
+        "Field3": "5c4617bf9106709b90db08b2",
+        "Field4": "32136659.39"
+      },
+      {
+        "Id": "5c4617bff54f2f95363b2c90",
+        "Field1": "5c4617bf81065d5fee3e4c61",
+        "Field2": "5c4617bfe6dd0929a45a0212",
+        "Field3": "5c4617bfb383300edb375ada",
+        "Field4": "28407829.72"
+      },
+      {
+        "Id": "5c4617bfcbee25d9c280a482",
+        "Field1": "5c4617bf0c9bdac98fc335ed",
+        "Field2": "5c4617bff9e2bd7e2dc79995",
+        "Field3": "5c4617bfed68547e31d303b5",
+        "Field4": "46423260.56"
+      },
+      {
+        "Id": "5c4617bfc8951620e3ef07b9",
+        "Field1": "5c4617bfbdb3016db81a59c9",
+        "Field2": "5c4617bfd99adadecd446c54",
+        "Field3": "5c4617bf8308172bf124a310",
+        "Field4": "69122116.93"
+      },
+      {
+        "Id": "5c4617bf4bb7f555923b7ddb",
+        "Field1": "5c4617bf1b34884344fc68a5",
+        "Field2": "5c4617bfd904c1ec5347ec5e",
+        "Field3": "5c4617bfa1a38bd7747885a7",
+        "Field4": "43498152.53"
+      },
+      {
+        "Id": "5c4617bf8c9787d063d7c999",
+        "Field1": "5c4617bff1bcfdfb32db1e23",
+        "Field2": "5c4617bfd1a03cea989af7e7",
+        "Field3": "5c4617bfd504786b6dbdf6e2",
+        "Field4": "29713151.73"
+      },
+      {
+        "Id": "5c4617bfb2929809a5f2e19f",
+        "Field1": "5c4617bf45197d8c8f25f2ab",
+        "Field2": "5c4617bf9d75f48263307e64",
+        "Field3": "5c4617bfc596f654740379fc",
+        "Field4": "92722809.82"
+      },
+      {
+        "Id": "5c4617bfaa477c046fc3c4d3",
+        "Field1": "5c4617bf07f96c0bfeb9cd2e",
+        "Field2": "5c4617bf6fa86d4785eb9962",
+        "Field3": "5c4617bff1bf0f4fca63e881",
+        "Field4": "15604008.39"
+      },
+      {
+        "Id": "5c4617bf0b4d2ba8d6dbc5cd",
+        "Field1": "5c4617bff0f2826cb8022fb3",
+        "Field2": "5c4617bfef5845b6d224d05a",
+        "Field3": "5c4617bf99e4354ab0ea30ce",
+        "Field4": "38794645.31"
+      },
+      {
+        "Id": "5c4617bf0a0db3e96becfa48",
+        "Field1": "5c4617bf2d109673924e6291",
+        "Field2": "5c4617bf1d2f34260473e9e1",
+        "Field3": "5c4617bfc3fab70485d2c803",
+        "Field4": "57615637.77"
+      },
+      {
+        "Id": "5c4617bfb891d2d02b1bd306",
+        "Field1": "5c4617bfde8a1fef518c749c",
+        "Field2": "5c4617bf53e3e2977937fd07",
+        "Field3": "5c4617bf0353c90e85d51f81",
+        "Field4": "42709035.7"
+      },
+      {
+        "Id": "5c4617bfc64a1e74bb66f015",
+        "Field1": "5c4617bf5aaf6ee7a0bfa243",
+        "Field2": "5c4617bf2cb7ed4d7b843fe4",
+        "Field3": "5c4617bf35dc814ba74f89ef",
+        "Field4": "23857441.04"
+      },
+      {
+        "Id": "5c4617bfc8bb76d575e13544",
+        "Field1": "5c4617bfac25cb346e8dde43",
+        "Field2": "5c4617bfac669599ce061618",
+        "Field3": "5c4617bf424310babe9e58bd",
+        "Field4": "79097640.81"
+      },
+      {
+        "Id": "5c4617bf59165e28e443d280",
+        "Field1": "5c4617bfcf49db4367c6fc3e",
+        "Field2": "5c4617bf0a2c53c488ebbfdd",
+        "Field3": "5c4617bff7d07342ff895eea",
+        "Field4": "55255447.02"
+      },
+      {
+        "Id": "5c4617bf0fe9cae823013dab",
+        "Field1": "5c4617bfa879f97e99fb0c56",
+        "Field2": "5c4617bf84d2d9e964f3cd57",
+        "Field3": "5c4617bfc16e5f5f95c8e3ee",
+        "Field4": "42939695.73"
+      },
+      {
+        "Id": "5c4617bf0e26a7d670e9ee8a",
+        "Field1": "5c4617bf7f7c180e7c2a7e93",
+        "Field2": "5c4617bf0e3f768de2b6e0e4",
+        "Field3": "5c4617bf2591e5bade034df1",
+        "Field4": "40020856.51"
+      },
+      {
+        "Id": "5c4617bf7e3f1b785bb32734",
+        "Field1": "5c4617bf73c77870cf0493cf",
+        "Field2": "5c4617bfc84a771a70cdd5d8",
+        "Field3": "5c4617bf3d7a8bbc1f41440f",
+        "Field4": "14735894.38"
+      },
+      {
+        "Id": "5c4617bf41afc4f8efe6eb3a",
+        "Field1": "5c4617bfdd6de18fec684417",
+        "Field2": "5c4617bf9660f719cc895acd",
+        "Field3": "5c4617bfb6a506eec529bf99",
+        "Field4": "86734521.72"
+      },
+      {
+        "Id": "5c4617bf095c4c4814ba495d",
+        "Field1": "5c4617bffcdf553a6057158b",
+        "Field2": "5c4617bf18d57d7075c6855a",
+        "Field3": "5c4617bf683fcb2b8a976564",
+        "Field4": "63674335.01"
+      },
+      {
+        "Id": "5c4617bfe7e7fcdac214da53",
+        "Field1": "5c4617bf33e66a3175741cf9",
+        "Field2": "5c4617bfe156a5e5e3b53985",
+        "Field3": "5c4617bf3e09ee1a40367300",
+        "Field4": "89970109.03"
+      },
+      {
+        "Id": "5c4617bf3ba5371f59e601d1",
+        "Field1": "5c4617bfe34f15af621149ef",
+        "Field2": "5c4617bf1b6213ac0a8053c2",
+        "Field3": "5c4617bf6a74015b07849998",
+        "Field4": "69174130.79"
+      },
+      {
+        "Id": "5c4617bfd5a3ec2181d837f6",
+        "Field1": "5c4617bf44cbf3d025fa35fc",
+        "Field2": "5c4617bf2dbc445a25399c39",
+        "Field3": "5c4617bf5dbc3cf9ffa0e197",
+        "Field4": "32798805.31"
+      },
+      {
+        "Id": "5c4617bf757b0398a0fb9e73",
+        "Field1": "5c4617bf8a6ab0b892bcf2aa",
+        "Field2": "5c4617bf53728ea818c5a178",
+        "Field3": "5c4617bfd92b5f68c4e436e2",
+        "Field4": "32693737.56"
+      },
+      {
+        "Id": "5c4617bff4c6b5c1c7f2724a",
+        "Field1": "5c4617bfef51333bf0a35bae",
+        "Field2": "5c4617bf8383136ebee958f6",
+        "Field3": "5c4617bf8191ceeaf1823468",
+        "Field4": "77752260.99"
+      },
+      {
+        "Id": "5c4617bf6421adf1721a7fbe",
+        "Field1": "5c4617bf9f3b15c3c1a58ce5",
+        "Field2": "5c4617bf90b3d338a773b8e3",
+        "Field3": "5c4617bf3dae69bc8befa761",
+        "Field4": "93970092.14"
+      },
+      {
+        "Id": "5c4617c00bcbb4aef92bfc39",
+        "Field1": "5c4617c0aa99c80955dfc104",
+        "Field2": "5c4617c00d837b6532f31d9b",
+        "Field3": "5c4617c0577e58e466dece2a",
+        "Field4": "703914.05"
+      },
+      {
+        "Id": "5c4617c0934ddfb199de5efb",
+        "Field1": "5c4617c0e1e1ce1b8e7513bc",
+        "Field2": "5c4617c01fc80f76be42fb20",
+        "Field3": "5c4617c0525d2b2d6af9f285",
+        "Field4": "24854931.53"
+      },
+      {
+        "Id": "5c4617c04903af4e5ee81b1d",
+        "Field1": "5c4617c0c686eec3af69c3cd",
+        "Field2": "5c4617c0928424b25f6f3103",
+        "Field3": "5c4617c0943f2ab5ee648fc7",
+        "Field4": "52819085.3"
+      }
+    ]
+  }
+}

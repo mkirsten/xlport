@@ -1,0 +1,7 @@
+{
+  "apikey": "test-api-key",
+  "templateId": "DAYS calculation bug/template.xlsx",
+  "data": {
+    "Staffing": [{ "Utilization": 7 }]
+  }
+}

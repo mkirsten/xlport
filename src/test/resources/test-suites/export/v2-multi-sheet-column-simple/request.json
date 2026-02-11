@@ -1,0 +1,68 @@
+{
+  "templateId": "multi-sheet-column-simple/template.xlsx",
+  "data": {
+    "sheets": [
+      {
+        "name": "Copy1",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#FF0000",
+        "data": {
+          "Data": {
+            "columns": [
+              { "name": "Col1", "fromTemplateColumn": "TemplateColumn" },
+              { "name": "Col2", "fromTemplateColumn": "TemplateColumn" }
+            ],
+            "data": [
+              {
+                "Col1": "1",
+                "Col2": "2"
+              },
+              {
+                "Col1": "3",
+                "Col2": "4"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Copy2",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#00FF00",
+        "data": {
+          "Data": [
+            {
+              "TemplateColumn": "5"
+            },
+            {
+              "TemplateColumn": "6"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Copy3",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#0000FF",
+        "data": {
+          "Data": {
+            "columns": [
+              { "name": "Col1", "fromTemplateColumn": "TemplateColumn" },
+              { "name": "Col2", "fromTemplateColumn": "TemplateColumn" }
+            ],
+            "data": [
+              {
+                "Col1": "7",
+                "Col2": "8"
+              },
+              {
+                "Col1": "9",
+                "Col2": "10"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

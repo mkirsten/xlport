@@ -1,0 +1,88 @@
+{
+  "templateId": "template.xlsx",
+  "data": {
+    "Initiatives": [
+      {
+        "Id": "uuidInitiative1",
+        "Name": "Initiative 1",
+        "StatusId": "uuidStatus1",
+        "SavingsPotential": 123.3,
+        "Achievement": 0.12,
+        "IsComplete": false,
+        "Date": "2018-04-11T00:00:00.000Z",
+        "Integer": 1,
+        "Calculated column": 146.727
+      },
+      {
+        "Id": "uuidInitiative2",
+        "Name": "Initiative 2",
+        "StatusId": "uuidStatus2",
+        "SavingsPotential": null,
+        "Achievement": 0,
+        "IsComplete": true,
+        "Date": "1966-05-01T00:00:00.000Z",
+        "Integer": -246537347,
+        "Calculated column": 0
+      },
+      {
+        "Id": "uuidInitiative3",
+        "Name": "Initiative 3",
+        "StatusId": "uuidStatus3",
+        "SavingsPotential": 456,
+        "Achievement": 0.2,
+        "IsComplete": false,
+        "Date": "2020-01-01T00:00:00.000Z",
+        "Integer": 1324275242,
+        "Calculated column": 542.64
+      }
+    ],
+    "Milestones": [
+      {
+        "Id": "msid1",
+        "InitiativeId": "iid1",
+        "StartDate": "2018-02-03T00:00:00.000Z",
+        "EndDate": "2019-06-18T00:00:00.000Z"
+      },
+      {
+        "Id": "msid2",
+        "InitiativeId": "iid1",
+        "StartDate": "2018-01-24T00:00:00.000Z",
+        "EndDate": "2019-06-08T00:00:00.000Z"
+      },
+      {
+        "Id": "msid3",
+        "InitiativeId": "iid2",
+        "StartDate": "2018-01-14T00:00:00.000Z",
+        "EndDate": "2019-05-29T00:00:00.000Z"
+      }
+    ],
+    "Status": [
+      {
+        "Id": "uuidStatus1",
+        "Label": "On track"
+      },
+      {
+        "Id": "uuidStatus2",
+        "Label": "Some progress"
+      },
+      {
+        "Id": "uuidStatus3",
+        "Label": "Delayed"
+      }
+    ],
+    "Persons": [
+      {
+        "Id": "pid1",
+        "LastName": "Smith"
+      },
+      {
+        "Id": "pid2",
+        "LastName": "Jones"
+      },
+      {
+        "Id": "pid3",
+        "LastName": "Brown"
+      }
+    ]
+  }
+}

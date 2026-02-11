@@ -1,0 +1,29 @@
+{
+  "templateId": "tableLookup/template.xlsx",
+  "data": {
+    "Data": [
+      {
+        "LookupId": "B"
+      },
+      {
+        "LookupId": "A"
+      },
+      {
+        "LookupId": "B"
+      },
+      {
+        "LookupId": "A"
+      }
+    ],
+    "Lookup": [
+      {
+        "Id": "A",
+        "Value": "X"
+      },
+      {
+        "Id": "B",
+        "Value": "Y"
+      }
+    ]
+  }
+}

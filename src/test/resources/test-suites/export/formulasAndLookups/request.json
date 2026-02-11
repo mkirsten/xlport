@@ -1,0 +1,8 @@
+{
+	"data":{
+		"inputA":1,
+		"inputB":2,
+		"inputC":"=VLOOKUP(1,rangeA,2,FALSE)",
+		"inputD":"=VLOOKUP(2,rangeB,2,FALSE)"
+	}
+}

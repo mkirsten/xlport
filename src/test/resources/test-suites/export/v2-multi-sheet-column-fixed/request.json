@@ -1,0 +1,59 @@
+{
+  "templateId": "multi-sheet-column-fixed/template.xlsx",
+  "data": {
+    "sheets": [
+      {
+        "name": "Copy1",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#FF0000",
+        "data": {
+          "Data": {
+            "columns": [
+              { "name": "Fixed"},
+              { "name": "Col1", "fromTemplateColumn": "TemplateColumn" },
+              { "name": "Col2", "fromTemplateColumn": "TemplateColumn" }
+            ],
+            "data": [
+              {
+                "Fixed": "Fixed",
+                "Col1": "1",
+                "Col2": "2"
+              },
+              {
+                "Fixed": "Fixed",
+                "Col1": "3",
+                "Col2": "4"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Copy2",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#0000FF",
+        "data": {
+          "Data": {
+            "columns": [
+              { "name": "Fixed2", "fromTemplateColumn": "Fixed" },
+              { "name": "Col1", "fromTemplateColumn": "TemplateColumn" },
+              { "name": "Col2", "fromTemplateColumn": "TemplateColumn" }
+            ],
+            "data": [
+              {
+                "Fixed2": "Fixed",
+                "Col1": "7",
+                "Col2": "8"
+              },
+              {
+                "Fixed2": "Fixed",
+                "Col1": "9",
+                "Col2": "10"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

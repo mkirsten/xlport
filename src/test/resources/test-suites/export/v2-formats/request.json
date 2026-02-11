@@ -1,0 +1,169 @@
+{
+  "templateId": "formats/template.xlsx",
+  "data": {
+    "No2Percent": { "data": 1.234, "format": "0%" },
+    "No2Percent1": { "data": 0.01234, "format": "0.0%" },
+    "No2Percent2": { "data": 0.01234, "format": "0.00%" },
+    "Percent2Percent2": { "data": 0.01234, "format": "0.00%" },
+    "No2Numeric": { "data": 1234.567, "format": "#.##0,00" },
+    "No2Currency": { "data": 1234.567, "format": "#.##0,00 €" },
+    "No2Date": { "data": 44937, "format": "[$-x-sysdate]DDDD, MMMM DD, YYYY" },
+    "NumberIndent1": { "data": 1234.567, "indent": 1 },
+    "TextIndent2": { "data": "Test", "indent": 2 },
+    "ResetIndent": { "data": "Test", "indent": 0 },
+    "KeepIndent": { "data": "Test" },
+    "No2PercentIndent1": { "data": 1.234, "format": "0%", "indent": 1 },
+    "Table": {
+      "columns": [
+        { "name": "Name", "fromTemplateColumn": "NoFormat" },
+        {
+          "name": "No2Percent",
+          "fromTemplateColumn": "NoFormat",
+          "format": "0%"
+        },
+        {
+          "name": "Format2Percent2",
+          "fromTemplateColumn": "WithFormat",
+          "format": "0.00%"
+        },
+        {
+          "name": "No2Numeric",
+          "fromTemplateColumn": "NoFormat",
+          "format": "#.##0"
+        },
+        { "name": "No2Indent", "fromTemplateColumn": "NoFormat", "indent": 1 },
+        {
+          "name": "Indent2Indent2",
+          "fromTemplateColumn": "WithIndent",
+          "indent": 2
+        },
+        {
+          "name": "No2IndentPercent",
+          "fromTemplateColumn": "NoFormat",
+          "format": "0%",
+          "indent": 2
+        }
+      ],
+      "data": [
+        {
+          "Name": "Column format",
+          "No2Percent": 1.234,
+          "Format2Percent2": 1.234,
+          "No2Numeric": 1234,
+          "No2Indent": "text",
+          "Indent2Indent2": "text",
+          "No2IndentPercent": 1.234
+        },
+        {
+          "Name": "Cell format",
+          "No2Percent": { "data": 0.01234, "format": "0.00%", "indent": 2 },
+          "Format2Percent2": { "data": 0.01234, "format": "0.00%", "indent": 2 },
+          "No2Numeric": { "data": 0.01234, "format": "0.00%", "indent": 2 },
+          "No2Indent": { "data": 0.01234, "format": "0.00%", "indent": 2 },
+          "Indent2Indent2": { "data": 0.01234, "format": "0.00%", "indent": 2 },
+          "No2IndentPercent": { "data": 0.01234, "format": "0.00%", "indent": 2 }
+        }
+      ]
+    },
+    "sheets": [
+      {
+        "name": "Copy-1",
+        "fromTemplateSheet": "Template",
+        "tabColor": "#FF0000",
+        "data": {
+          "No2Percent": { "data": 1.234, "format": "0%" },
+          "No2Percent1": { "data": 1.234, "format": "0.0%" },
+          "No2Percent2": { "data": 1.234, "format": "0.00%" },
+          "Percent2Percent2": { "data": 1.234, "format": "0.00%" },
+          "No2Numeric": { "data": 1234.567, "format": "#.##0,00" },
+          "No2Currency": { "data": 1234.567, "format": "#.##0,00 €" },
+          "No2Date": {
+            "data": 44937,
+            "format": "[$-x-sysdate]DDDD, MMMM DD, YYYY"
+          },
+          "NumberIndent1": { "data": 1234.567, "indent": 1 },
+          "TextIndent2": { "data": "Test", "indent": 2 },
+          "ResetIndent": { "data": "Test", "indent": 0 },
+          "KeepIndent": { "data": "Test" },
+          "No2PercentIndent1": { "data": 1.234, "format": "0%", "indent": 1 },
+          "Table2": {
+            "columns": [
+              { "name": "Name", "fromTemplateColumn": "NoFormat" },
+              {
+                "name": "No2Percent",
+                "fromTemplateColumn": "NoFormat",
+                "format": "0%"
+              },
+              {
+                "name": "Format2Percent2",
+                "fromTemplateColumn": "WithFormat",
+                "format": "0.00%"
+              },
+              {
+                "name": "No2Numeric",
+                "fromTemplateColumn": "NoFormat",
+                "format": "#.##0,00"
+              },
+              {
+                "name": "No2Indent",
+                "fromTemplateColumn": "NoFormat",
+                "indent": 1
+              },
+              {
+                "name": "Indent2Indent2",
+                "fromTemplateColumn": "WithIndent",
+                "indent": 2
+              },
+              {
+                "name": "No2IndentPercent",
+                "fromTemplateColumn": "NoFormat",
+                "format": "0%",
+                "indent": 2
+              }
+            ],
+            "data": [
+              {
+                "Name": "Column format",
+                "No2Percent": 1.234,
+                "Format2Percent2": 1.234,
+                "No2Numeric": 1234.567,
+                "No2Indent": "text",
+                "Indent2Indent2": "text",
+                "No2IndentPercent": 1.234
+              },
+              {
+                "Name": "Cell format",
+                "No2Percent": {
+                  "data": 1.234,
+                  "format": "0.00%",
+                  "indent": 2
+                },
+                "Format2Percent2": {
+                  "data": 1.234,
+                  "format": "0.00%",
+                  "indent": 2
+                },
+                "No2Numeric": {
+                  "data": 1.234,
+                  "format": "0.00%",
+                  "indent": 2
+                },
+                "No2Indent": { "data": 1.234, "format": "0.00%", "indent": 2 },
+                "Indent2Indent2": {
+                  "data": 1.234,
+                  "format": "0.00%",
+                  "indent": 2
+                },
+                "No2IndentPercent": {
+                  "data": 1.234,
+                  "format": "0.00%",
+                  "indent": 2
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

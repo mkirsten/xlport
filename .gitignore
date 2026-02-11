@@ -1,0 +1,21 @@
+.DS_Store
+~$*
+*~
+.classpath
+.project
+.settings
+nbactions.xml
+target/
+*.iml
+.idea
+.vscode/
+.claude/
+.env
+*.log
+
+# Private (not published to public repo)
+Dockerfile
+build_and_upload.sh
+deploy.sh
+kube-*.yaml
+PUBLISHING.md

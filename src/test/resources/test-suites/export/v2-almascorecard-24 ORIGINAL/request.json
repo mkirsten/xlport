@@ -1,0 +1,118 @@
+{
+  "templateId": "scorecard-export/Scorecard.xlsx",
+  "data": {
+    "sheets": [
+      {
+        "name": "Q3_2018",
+        "fromTemplateSheet": "Template",
+        "data": {
+          "Values": {
+            "columns": [
+              {
+                "name": "RegionId",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Region",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "RegionDepth",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "National indicators: DTP 3 coverage",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "National indicators: Indicator B",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "National indicators: Indicator C",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "National indicators: Indicator D",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "National indicators: Indicator E",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "bla: New indicator",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category A: Indicator 1",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category A: Indicator 2",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category A: Indicator X",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category A: Indicator 3",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category C: Indicator 7",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category C: Indicator 8",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category C: hhgfdjh",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category C: äkäkä",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category E: Indicator 4",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category E: Indicator 5",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category E: Indicator 10",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category E: Indicator 11",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category E: % Coverage IRS",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category F: New indicator",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category F: New indicator",
+                "fromTemplateColumn": "Template"
+              },
+              {
+                "name": "Category F: New indicator",
+                "fromTemplateColumn": "Template"
+              }
+            ],
+            "data": [{}]
+          }
+        }
+      }
+    ]
+  }
+}

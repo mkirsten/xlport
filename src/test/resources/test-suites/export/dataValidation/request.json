@@ -1,0 +1,23 @@
+{
+  "templateId": "data-validation/template.xlsx",
+  "data": {
+    "Data": [
+      {
+        "LookupValue": "X"
+      },
+      {
+        "LookupValue": "Y"
+      }
+    ],
+    "Lookup": [
+      {
+        "Id": "A",
+        "Value": "X"
+      },
+      {
+        "Id": "B",
+        "Value": "Y"
+      }
+    ]
+  }
+}

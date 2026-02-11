@@ -1,0 +1,12 @@
+{
+  "templateId": "v2-multi-sheet-bug/template.xlsx",
+  "data": {
+    "sheets": [
+      {
+        "name": "Test",
+        "fromTemplateSheet": "Template",
+        "data": {}
+      }
+    ]
+  }
+}

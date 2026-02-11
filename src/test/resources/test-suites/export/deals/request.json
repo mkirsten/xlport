@@ -1,0 +1,444 @@
+{
+  "templateId": "cjsll62vc21q90a36d4vi5yy1_list.xlsx",
+  "data": {
+    "Deals": [
+      {
+        "Id": "cjsyem3o1l4rc0a369kdxcqo8",
+        "Deal Name": "bla",
+        "Function": "",
+        "Status": "",
+        "Country": "",
+        "Account": "",
+        "Account Number": 0,
+        "Key Account": false,
+        "Strat. Importance": false,
+        "Probability": 5,
+        "Discounted Budget" : 15,
+        "Next Steps": "",
+        "Category": "",
+        "Contact": "",
+        "Project Start": null,
+        "Lead 1": "",
+        "Client Project Code": "",
+        "Project End": null,
+        "Lead 2": "",
+        "Lead 3": "",
+        "Project Number": "",
+        "": 0,
+        "Name Competitor 1": "",
+        "Status Competitor 1": "",
+        "Name Competitor 2": "",
+        "Status Competitor 2": "",
+        "Name Competitor 3": "",
+        "Status Competitor 3": "",
+        "Existence Tender": false,
+        "Action Tender": "",
+        "Result Tender": "",
+        "Existence Pitch Round 1": false,
+        "Action Pitch Round 1": "",
+        "Result Pitch Round 1": "",
+        "Existence Pitch Round 2": false,
+        "Action Pitch Round 2": "",
+        "Result Pitch Round 2": "",
+        "Existence Pitch Round 3": false,
+        "Action Pitch Round 3": "",
+        "Result Pitch Round 3": "",
+        "Industry": "All"
+      }
+    ],
+    "Staffing": [
+      {
+        "Id": "cjt73gbyi1pkh0a70a2kp6tu1",
+        "Level": "Partner 1",
+        "Name": "",
+        "Utilization": 0.2,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 1000,
+        "Discount": 0.2
+      },
+      {
+        "Id": "cjt7grbq62ng90a70qj9mpe5g",
+        "Level": "Project Manager 1",
+        "Name": "",
+        "Utilization": 1,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 500,
+        "Discount": 0
+      },
+      {
+        "Id": "cjthd74svdhdp0a89j4l897rs",
+        "Level": "Partner 1",
+        "Name": "",
+        "Utilization": 0.2,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 1000,
+        "Discount": 0.2
+      },
+      {
+        "Id": "cjthd74sydhg10a89iktsakod",
+        "Level": "Project Manager 1",
+        "Name": "",
+        "Utilization": 1,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 500,
+        "Discount": 0
+      },
+      {
+        "Id": "cjthi3vv5dpr40a8935px0dzn",
+        "Level": "Project Manager 1",
+        "Name": "",
+        "Utilization": 1,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 500,
+        "Discount": 0
+      },
+      {
+        "Id": "cjthi3vvbdptg0a89o2jgoi8w",
+        "Level": "Partner 1",
+        "Name": "",
+        "Utilization": 0.2,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 1000,
+        "Discount": 0.2
+      },
+      {
+        "Id": "cjthc7is9ddaf0a89cy06gym3",
+        "Level": "Project Manager 1",
+        "Name": "",
+        "Utilization": 1,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 500,
+        "Discount": 0
+      },
+      {
+        "Id": "cjthc7isiddcr0a8945ql4nwl",
+        "Level": "Partner 1",
+        "Name": "",
+        "Utilization": 0.2,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 1000,
+        "Discount": 0.2
+      },
+      {
+        "Id": "cjthl2gisdxlc0a89xj0tl9xv",
+        "Level": "Partner 1",
+        "Name": "",
+        "Utilization": 0.2,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 1000,
+        "Discount": 0.2
+      },
+      {
+        "Id": "cjthl2gjwdxod0a89z3bieryl",
+        "Level": "Project Manager 1",
+        "Name": "",
+        "Utilization": 1,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 500,
+        "Discount": 0
+      },
+      {
+        "Id": "cjthd35ludfw40a890yqelgpy",
+        "Level": "Partner 1",
+        "Name": "",
+        "Utilization": 0.2,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 1000,
+        "Discount": 0.2
+      },
+      {
+        "Id": "cjthd35m0dfyg0a8969y6ljse",
+        "Level": "Project Manager 1",
+        "Name": "",
+        "Utilization": 1,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 500,
+        "Discount": 0
+      },
+      {
+        "Id": "cjthjs1c1dthk0a897ept6ych",
+        "Level": "Project Manager 1",
+        "Name": "",
+        "Utilization": 1,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 500,
+        "Discount": 0
+      },
+      {
+        "Id": "cjthjs1cadtjw0a89oazhki9y",
+        "Level": "Partner 1",
+        "Name": "",
+        "Utilization": 0.2,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 1000,
+        "Discount": 0.2
+      },
+      {
+        "Id": "cjtidbaiof3i50a899l4pm1xr",
+        "Level": "Partner 1",
+        "Name": "",
+        "Utilization": 0.2,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 1000,
+        "Discount": 0.2
+      },
+      {
+        "Id": "cjtidbaiof3i60a89gjttaxn1",
+        "Level": "Project Manager 1",
+        "Name": "",
+        "Utilization": 1,
+        "Start": "2019-03-01T02:00:00.000Z",
+        "End": "2019-08-30T02:00:00.000Z",
+        "Daily Rate": 500,
+        "Discount": 0
+      }
+    ],
+    "Function_Lookup": [
+      {
+        "Id": "cjslmzuiy24ns0a366gwi5iax",
+        "Value": 10,
+        "Label": "Digitization"
+      },
+      {
+        "Id": "cjslmzujb24nu0a36bqsebrt6",
+        "Value": 20,
+        "Label": "Executive Communications"
+      },
+      {
+        "Id": "cjslmzujf24nw0a361kn2crw5",
+        "Value": 30,
+        "Label": "Information Management"
+      },
+      {
+        "Id": "cjslmzujj24ny0a36rezejrys",
+        "Value": 40,
+        "Label": "Investor Support & Corporate Finance"
+      },
+      { "Id": "cjslmzujm24o00a36u6xemitl", "Value": 50, "Label": "Operations" },
+      {
+        "Id": "cjslmzujp24o20a364nfz8paj",
+        "Value": 60,
+        "Label": "Restructuring & Corporate Performance"
+      },
+      {
+        "Id": "cjslmzuju24o40a36ul9fshac",
+        "Value": 70,
+        "Label": "Sales & Marketing"
+      },
+      { "Id": "cjslmzujy24o60a367j4jks6k", "Value": 80, "Label": "Strategy" }
+    ],
+    "Status_Lookup": [
+      {
+        "Id": "cjsln2d9d24sh0a362qen1t4p",
+        "Value": 10,
+        "Label": "Proposal in process"
+      },
+      {
+        "Id": "cjsln2d9h24sj0a36udd8ps7c",
+        "Value": 20,
+        "Label": "Proposal submitted"
+      },
+      {
+        "Id": "cjsln2d9k24sl0a36a3o6oyfs",
+        "Value": 30,
+        "Label": "Intermediate pitch presented"
+      },
+      {
+        "Id": "cjsln2d9o24sn0a360b3z3ahz",
+        "Value": 40,
+        "Label": "Final pitch in preparation"
+      },
+      {
+        "Id": "cjsln2d9r24sp0a36xsmy72b5",
+        "Value": 50,
+        "Label": "Final pitch presented"
+      },
+      { "Id": "cjsln2d9z24sr0a366hjntwe9", "Value": 60, "Label": "Lost" },
+      { "Id": "cjsln2da224st0a36vyjp3dxw", "Value": 70, "Label": "Win" }
+    ],
+    "Country_Lookup": [
+      { "Id": "cjslncdal258d0a368cc9ayoo", "Value": 10, "Label": "Austria" },
+      { "Id": "cjslncdap258f0a36wtn153bm", "Value": 20, "Label": "Belgium" },
+      { "Id": "cjslncdat258h0a36m6u7cd47", "Value": 30, "Label": "Bulgaria" },
+      { "Id": "cjslncdax258j0a36b3khvy7e", "Value": 40, "Label": "Croatia" },
+      { "Id": "cjslncdb0258l0a36fs441eog", "Value": 50, "Label": "Cyprus" },
+      {
+        "Id": "cjslncdb3258n0a36g4swim3g",
+        "Value": 60,
+        "Label": "Czech Republic"
+      },
+      { "Id": "cjslncdb9258p0a36vx4fxbuz", "Value": 70, "Label": "Denmark" },
+      { "Id": "cjslncdbc258r0a36pk5c5zwj", "Value": 80, "Label": "Estonia" },
+      { "Id": "cjslncdbg258t0a363ld2j46q", "Value": 90, "Label": "Finland" },
+      { "Id": "cjslncdbk258v0a366n04pf94", "Value": 100, "Label": "France" },
+      { "Id": "cjslncdbo258x0a36dhjxz45h", "Value": 110, "Label": "Germany" },
+      { "Id": "cjslncdbs258z0a36mz0yhgpf", "Value": 120, "Label": "Greece" },
+      { "Id": "cjslncdbx25910a36xc79kg9c", "Value": 130, "Label": "Hungary" },
+      { "Id": "cjslncdc025930a3651zoren0", "Value": 140, "Label": "Ireland" },
+      { "Id": "cjslncdc425950a36hdmjc58y", "Value": 150, "Label": "Italy" },
+      { "Id": "cjslncdc925970a36rfddvqtv", "Value": 160, "Label": "Latvia" },
+      { "Id": "cjslncdcd25990a3694zuotk5", "Value": 170, "Label": "Lithuania" },
+      {
+        "Id": "cjslncdcg259b0a360782j2tn",
+        "Value": 180,
+        "Label": "Luxembourg"
+      },
+      { "Id": "cjslncdcj259d0a361vy3mw3w", "Value": 190, "Label": "Malta" },
+      {
+        "Id": "cjslncdcr259f0a36vpxklt4o",
+        "Value": 200,
+        "Label": "Netherlands"
+      },
+      { "Id": "cjslncdcw259h0a36lycha4ff", "Value": 210, "Label": "Poland" },
+      { "Id": "cjslncdd1259j0a36s4dhk1bl", "Value": 220, "Label": "Portugal" },
+      { "Id": "cjslncdd9259l0a36d7r5ig8o", "Value": 230, "Label": "Romania" },
+      { "Id": "cjslncdde259n0a36kk2l813k", "Value": 240, "Label": "Slovakia" },
+      { "Id": "cjslncddi259p0a36a05e2yis", "Value": 250, "Label": "Slovenia" },
+      { "Id": "cjslncddl259r0a36juw8iod7", "Value": 260, "Label": "Spain" },
+      { "Id": "cjslncddo259t0a36ephyiw4d", "Value": 270, "Label": "Sweden" },
+      {
+        "Id": "cjslncdds259v0a367dv7iaey",
+        "Value": 280,
+        "Label": "United Kingdom"
+      }
+    ],
+    "Category_Lookup": [
+      { "Id": "cjsodofhs6d2x0a36xdrt38ft", "Value": 10, "Label": "Accounting" },
+      {
+        "Id": "cjsodofhx6d2z0a362sif66d0",
+        "Value": 20,
+        "Label": "Controlling"
+      },
+      {
+        "Id": "cjsodofi16d310a36czufigjc",
+        "Value": 30,
+        "Label": "Corporate Finance"
+      },
+      { "Id": "cjsodofi46d330a36h4p5asz1", "Value": 40, "Label": "CRM" },
+      { "Id": "cjsodofi76d350a36oupuqwzv", "Value": 50, "Label": "Efficiency" },
+      {
+        "Id": "cjsodofib6d370a36s7amhtmh",
+        "Value": 60,
+        "Label": "Human Ressources"
+      },
+      {
+        "Id": "cjsodofie6d390a36sbv73lg5",
+        "Value": 70,
+        "Label": "Internal Processes"
+      },
+      { "Id": "cjsodofih6d3b0a36i51ksa5r", "Value": 80, "Label": "IT" },
+      { "Id": "cjsodofik6d3d0a36z8mujdzq", "Value": 90, "Label": "Marketing" },
+      {
+        "Id": "cjsodofin6d3f0a36l1nd3w02",
+        "Value": 100,
+        "Label": "Procurement"
+      },
+      {
+        "Id": "cjsodofiq6d3h0a365ivigh8d",
+        "Value": 110,
+        "Label": "Production"
+      },
+      {
+        "Id": "cjsodofiu6d3j0a36mqn8qogm",
+        "Value": 120,
+        "Label": "Restructuring"
+      },
+      { "Id": "cjsodofix6d3l0a3628xbxedk", "Value": 130, "Label": "Sales" },
+      { "Id": "cjsodofj06d3n0a36bbv5somw", "Value": 140, "Label": "Strategy" },
+      {
+        "Id": "cjsodofj36d3p0a36v6h24ngd",
+        "Value": 150,
+        "Label": "Supply Chain"
+      },
+      { "Id": "cjsodofj66d3r0a364d3ekyyg", "Value": 160, "Label": "Tax" }
+    ],
+    "Industry_Lookup": [
+      { "Id": "cjslm2b9723300a36yecw3o6y", "Label": "All" },
+      { "Id": "cjslmo25e241b0a364jowsx0z", "Label": "Aerospace & Defense" },
+      { "Id": "cjslmo25i241d0a36epdzlt0z", "Label": "Aviation" },
+      { "Id": "cjslmo25p241g0a36h2v649z9", "Label": "Government" },
+      { "Id": "cjslmo25w241j0a36snfkr20n", "Label": "Military Production" },
+      { "Id": "cjslmo266241m0a36or51twis", "Label": "Military Services" },
+      { "Id": "cjslmo26d241p0a368hghmojm", "Label": "Space" },
+      { "Id": "cjslmo26l241t0a36luq2vqrl", "Label": "Automotive" },
+      { "Id": "cjslmo26p241v0a36wxrbfcyw", "Label": "Suppliers" },
+      { "Id": "cjslmo26x241y0a36u7k8xh21", "Label": "OEM" },
+      { "Id": "cjslmo27324210a36vugw0zd0", "Label": "Dealership" },
+      { "Id": "cjslmo27b24250a36f3fr0sya", "Label": "Chemicals" },
+      { "Id": "cjslmo27i24280a36zzxbdloy", "Label": "Civil Economics" },
+      { "Id": "cjslmo27p242b0a36pefvyats", "Label": "Construction" },
+      {
+        "Id": "cjslmo27z242e0a365oparyqp",
+        "Label": "Consumer Goods, Retail & Agribusiness"
+      },
+      { "Id": "cjslmo287242g0a368lrsvffx", "Label": "Agribusiness" },
+      { "Id": "cjslmo28d242j0a36rjdyeg42", "Label": "E-Commerce" },
+      { "Id": "cjslmo28j242m0a36z1ia7pzb", "Label": "Fashion" },
+      { "Id": "cjslmo28p242p0a3688gvxk6q", "Label": "FMCG Drinks" },
+      { "Id": "cjslmo28u242s0a36vunyqma8", "Label": "FMCG Food" },
+      { "Id": "cjslmo291242v0a368p5lcdcc", "Label": "FMCG Non-Food" },
+      { "Id": "cjslmo296242y0a36k0onyd3d", "Label": "Retail" },
+      { "Id": "cjslmo29b24310a36bg66i50f", "Label": "SMCG" },
+      { "Id": "cjslmo29i24350a363vjmzx7q", "Label": "Energy & Utilities" },
+      { "Id": "cjslmo29o24380a369bxnhqjg", "Label": "Financial Services" },
+      { "Id": "cjslmo29s243a0a36dlom42ro", "Label": "Banking" },
+      { "Id": "cjslmo29x243d0a3628rnx20v", "Label": "Fintech" },
+      { "Id": "cjslmo2a3243g0a36fqvc8bza", "Label": "Insurance" },
+      {
+        "Id": "cjslmo2ac243k0a36ge4qszmr",
+        "Label": "Industrial Products & Services"
+      },
+      { "Id": "cjslmo2ai243n0a36pclanh9g", "Label": "Infrastructure" },
+      { "Id": "cjslmo2al243p0a365wwmfoif", "Label": "Airports & Harbours" },
+      { "Id": "cjslmo2at243s0a361ak60kuq", "Label": "Basic Supply" },
+      { "Id": "cjslmo2ay243v0a36rpvbw83p", "Label": "Digital Supply" },
+      { "Id": "cjslmo2b5243y0a3674xt8v9e", "Label": "Rail & Road Systems" },
+      { "Id": "cjslmo2bc24420a36u59xoumw", "Label": "Pharma & Healthcare" },
+      { "Id": "cjslmo2bg24440a36hwc7saye", "Label": "Biotech" },
+      { "Id": "cjslmo2bm24470a360f1svfm3", "Label": "Clinics & Hospitals" },
+      { "Id": "cjslmo2bs244a0a36hb7b5tyw", "Label": "Government" },
+      {
+        "Id": "cjslmo2bx244d0a36zhkg6vzt",
+        "Label": "Pharmaceutical Production"
+      },
+      { "Id": "cjslmo2c3244g0a362gi3496c", "Label": "Pharmacies & Retail" },
+      { "Id": "cjslmo2c8244j0a36gof6t21a", "Label": "Research Institutes" },
+      {
+        "Id": "cjslmo2cg244n0a3626ssybl2",
+        "Label": "Technology, Media & Telcos"
+      },
+      { "Id": "cjslmo2cj244p0a36cqcx3mje", "Label": "High Tech" },
+      { "Id": "cjslmo2cq244s0a36b4tay9ws", "Label": "Media" },
+      { "Id": "cjslmo2cw244v0a36bbgyqoym", "Label": "Telecommunication" },
+      { "Id": "cjslmo2d4244z0a369bkm31yb", "Label": "Transportation" },
+      { "Id": "cjslmo2d724510a36ch3610dw", "Label": "Airlines" },
+      { "Id": "cjslmo2dd24540a3618jcdwgb", "Label": "Rail" }
+    ],
+    "Person_Lookup": [
+      { "Id": "cjslnk3ko25m90a36lv6ltfm3", "Label": "Alice Anderson" },
+      { "Id": "cjslnk3kx25mb0a36ono3u2ju", "Label": "Bob Baker" },
+      { "Id": "cjslnk3l425md0a36cq1n6bup", "Label": "Charlie Clark" },
+      { "Id": "cjslnk3l725mf0a36qye675wu", "Label": "Diana Davis" },
+      { "Id": "cjslnk3lb25mh0a36nddqk7vz", "Label": "Eric Evans" },
+      { "Id": "cjslnk3le25mj0a36nwk28s3w", "Label": "Fiona Fisher" },
+      { "Id": "cjslnk3lj25ml0a361fta2exg", "Label": "George Green" },
+      { "Id": "cjslnk3ln25mn0a367n18uz4s", "Label": "Hannah Hill" },
+      { "Id": "cjslnk3ls25mp0a36axem8p2e", "Label": "Irene Irving" }
+    ]
+  }
+}

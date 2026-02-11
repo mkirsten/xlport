@@ -1,0 +1,119 @@
+{
+	"templateId": "template.xlsx",
+	"data": {
+		"CompanyBoolean": false,
+		"CompanyFloat": 2141.4,
+		"CompanyId": "cid1",
+		"CompanyInteger": 252454,
+		"CompanyLabel": "Company Name",
+		"CompanyLastUpdated": "2019-02-02T00:00:00.000Z",
+		"sheets": [
+			{
+				"name": "Q1",
+				"fromTemplateSheet": "Project",
+				"tabColor": "#FF0000",
+				"data": {
+					"ProjectId": "12345",
+					"ProjectLabel":"MyLabel",
+					"Integer":42,
+					"Float":37.005,
+					"Boolean":true,
+					"LastUpdated":"1982-01-25T00:00:00.000Z",					
+					"Status": [
+						{
+							"Id": "uuidStatus1",
+							"Label": "On track"
+						},
+						{
+							"Id": "uuidStatus2",
+							"Label": "Some progress"
+						},
+						{
+							"Id": "uuidStatus3",
+							"Label": "Delayed"
+						}
+					]
+				}
+			},
+			{
+				"name": "Q2",
+				"fromTemplateSheet": "Project",
+				"tabColor": "#00FF00",
+				"data": {
+					"dummy": "dummy value"
+				}
+			},
+			{
+				"name": "Q3",
+				"fromTemplateSheet": "Project",
+				"tabColor": "#0000FF",
+				"data": {
+					"dummy": "dummy value"
+				}
+			}
+		],
+		"Initiatives": [
+			{
+				"Id": "uuidInitiative1",
+				"Name": "Initiative 1",
+				"StatusId": "uuidStatus1",
+				"SavingsPotential": 123.3,
+				"Achievement": 0.12,
+				"IsComplete": false,
+				"Date": "2018-04-11T00:00:00.000Z",
+				"Integer": 1,
+				"Calculated column": 146.727
+			},
+			{
+				"Id": "uuidInitiative2",
+				"Name": "Initiative 2",
+				"StatusId": "uuidStatus2",
+				"SavingsPotential": null,
+				"Achievement": 0,
+				"IsComplete": true,
+				"Date": "1966-05-01T00:00:00.000Z",
+				"Integer": -246537347,
+				"Calculated column": 0
+			},
+			{
+				"Id": "uuidInitiative3",
+				"Name": "Initiative 3",
+				"StatusId": "uuidStatus3",
+				"SavingsPotential": 456,
+				"Achievement": 0.2,
+				"IsComplete": false,
+				"Date": "2020-01-01T00:00:00.000Z",
+				"Integer": 1324275242,
+				"Calculated column": 542.64
+			}
+		],
+		"Status": [
+			{
+				"Id": "uuidStatus1",
+				"Label": "On track"
+			},
+			{
+				"Id": "uuidStatus2",
+				"Label": "Some progress"
+			},
+			{
+				"Id": "uuidStatus3",
+				"Label": "Delayed"
+			}
+		],
+		"Persons": [
+			{
+				"Id": "pid1",
+				"LastName": "Smith"
+			},
+			{
+				"Id": "pid2",
+				"LastName": "Jones"
+			},
+			{
+				"Id": "pid3",
+				"LastName": "Brown"
+			}
+		]
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "templateId": "scorecard-export/Scorecard.xlsx",
+  "data": {
+    "sheets": [
+      {
+        "name": "hejsan",
+        "fromTemplateSheet": "Template",
+        "data": {
+          "Values": {
+            "columns": [
+              {
+                "name": "RegionId",
+                "fromTemplateColumn": "Template"
+              }
+            ],
+            "data": [{"RegionId" : 123}]
+          }
+        }
+      }
+    ]
+  }
+}

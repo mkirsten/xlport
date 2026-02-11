@@ -1,0 +1,8 @@
+{
+  "properties": ["projectId", "projectName", "lastUpdated"],
+  "tables": {
+    "initiatives": ["id", "label", "statusId", "savingsPotential", "achievement", "isComplete"],
+    "status": ["id", "label"],
+    "milestones": ["id", "initiativeId", "startDate", "endDate"]
+  }
+}

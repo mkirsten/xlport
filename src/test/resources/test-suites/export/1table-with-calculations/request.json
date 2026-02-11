@@ -1,0 +1,27 @@
+{
+  "templateId": "template.xlsx",
+  "data": {
+    "Initiatives": [
+      {
+        "Id": "1",
+        "SomeNumber": 10
+      },
+      {
+        "Id": "2",
+        "SomeNumber": 20
+      },
+      {
+        "Id": "3",
+        "SomeNumber": 30
+      },
+      {
+        "Id": "4",
+        "SomeNumber": 1
+      },
+      {
+        "Id": "5",
+        "SomeNumber": -10
+      }
+    ]
+  }
+}

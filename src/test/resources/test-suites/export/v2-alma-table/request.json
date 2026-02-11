@@ -1,0 +1,66 @@
+{
+  "templateId": "scorecard-export/template.xlsx",
+  "data": {
+    "sheets": [
+      {
+        "name": "A",
+        "fromTemplateSheet": "Template",
+        "data": {
+          "Values": {
+            "columns": [
+              { "name" : "RegionId"},
+              { "name" : "Region"},
+              { "name": "1", "fromTemplateColumn": "Template" },
+              { "name": "2", "fromTemplateColumn": "Template" },
+              { "name": "3", "fromTemplateColumn": "Template" }
+            ],
+            "data": [
+              {
+                "RegionId": 1,
+                "Region": "Country",
+                "1": 1,
+                "2": 2,
+                "3": 3
+              },
+              {
+                "RegionId": 2,
+                "Region": "Child",
+                "1": 4,
+                "2": 5,
+                "3": 6
+              }
+            ]
+          }
+        }
+      },
+      {
+        "name": "B",
+        "fromTemplateSheet": "Template",
+        "data": {
+          "Values": {
+            "columns": [
+              { "name" : "RegionId"},
+              { "name" : "Region"},
+              { "name": "1", "fromTemplateColumn": "Template" },
+              { "name": "3", "fromTemplateColumn": "Template" }
+            ],
+            "data": [
+              {
+                "RegionId": 1,
+                "Region": "Country",
+                "1": 7,
+                "3": 8
+              },
+              {
+                "RegionId": 2,
+                "Region": "Child",
+                "1": 9,
+                "3": 10
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

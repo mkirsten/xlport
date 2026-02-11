@@ -1,0 +1,26 @@
+{
+  "templateId": "template1.xlsx",
+  "filename": "Sample export",
+  "data": {
+    "ProjectId": "uuid1",
+    "ProjectLabel": "Some project name",
+    "LastUpdated": "2019-01-25T14:53:12.977Z",
+    "Initiatives": [
+      {"Id": "uuidInitiative1", "Name": "Initiative 1", "StatusId": "uuidStatus1", "SavingsPotential": 123.3, "Achievement": 0.12, "IsComplete": false},
+      {"Id": "uuidInitiative2", "Name": "Initiative 2", "StatusId": "uuidStatus2", "SavingsPotential": null, "Achievement": 0, "IsComplete": true},
+      {"Id": "uuidInitiative3", "Name": "Initiative 3", "StatusId": "uuidStatus3", "SavingsPotential": 456, "Achievement": 0.2, "IsComplete": false},
+      {"Id": "uuidInitiative4", "Name": "Initiative 4", "StatusId": "uuidStatus2", "SavingsPotential": 4, "Achievement": 1.2, "IsComplete": null},
+      {"Id": "uuidInitiative5", "Name": "Initiative 5", "StatusId": "uuidStatus1", "SavingsPotential": 5, "Achievement": 0.9, "IsComplete": false}
+    ],
+    "Status": [
+      {"Id": "uuidStatus1", "label": "On track"},
+      {"Id": "uuidStatus2", "label": "Some progress"},
+      {"Id": "uuidStatus3", "label": "Delayed"}
+    ],
+    "Table4": [
+      {"Id": "uuidMS1", "InitiativeId": "uuidInitiative1", "StartDate":"2018-12-01T00:00:00.00Z", "EndDate":"2018-12-31T00:00:00.00Z"},
+      {"Id": "uuidMS2", "InitiativeId": "uuidInitiative1", "StartDate":"2018-12-01T00:00:00.00Z", "EndDate":"2018-12-31T00:00:00.00Z"},
+      {"Id": "uuidMS3", "InitiativeId": "uuidInitiative2", "StartDate":"2018-12-01T00:00:00.00Z", "EndDate":"2018-12-31T00:00:00.00Z"}
+    ]
+  }
+}

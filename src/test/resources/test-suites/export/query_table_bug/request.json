@@ -1,0 +1,27 @@
+{
+  "templateId": "template.xlsx",
+  "data": {
+    "OptionLookup": [
+      {
+        "Value": 10,
+        "Label": "Option 1",
+        "Id": "ck9ubsezi49h70913on5nqehs"
+      },
+      {
+        "Value": 20,
+        "Label": "Option 2",
+        "Id": "ck9ubsfm749hd0913txw6m74o"
+      },
+      {
+        "Value": 30,
+        "Label": "Option 3",
+        "Id": "ck9ubsg5h49hj09139vznevw7"
+      },
+      {
+        "Value": 40,
+        "Label": "Option 4",
+        "Id": "ck9ubsgp449hp0913ac9rk3a2"
+      }
+    ]
+  }
+}

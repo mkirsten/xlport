@@ -1,0 +1,25 @@
+{
+  "apikey": "test-api-key",
+  "templateId": "uuid1",
+  "filename": "Sample export",
+  "data": {
+    "ProjectId": 333,
+    "ProjectLabel": "true",
+    "LastUpdated": "2019-01-25T14:53:12.977Z",
+    "Initiatives": [
+      {"id": "uuidInitiative1", "name": "Initiative 1", "statusId": "uuidStatus1", "savingsPotential": 123.3, "achievement": 0.12, "isComplete": false},
+      {"id": "uuidInitiative2", "name": "Initiative 2", "statusId": "uuidStatus2", "savingsPotential": null, "achievement": 0, "isComplete": true},
+      {"id": "uuidInitiative3", "name": "Initiative 3", "statusId": "uuidStatus3", "savingsPotential": 456, "achievement": 0.2, "isComplete": false}
+    ],
+    "Status": [
+      {"id": "uuidStatus1", "label": "On track"},
+      {"id": "uuidStatus2", "label": "Some progress"},
+      {"id": "uuidStatus3", "label": "Delayed"}
+    ],
+    "Milestones": [
+      {"id": "uuidMS1", "initiativeId": "uuidInitiative1", "startDate":"2018-12-01T00:00:00.00Z", "endDate":"2018-12-31T00:00:00.00Z"},
+      {"id": "uuidMS2", "initiativeId": "uuidInitiative1", "startDate":"2018-12-01T00:00:00.00Z", "endDate":"2018-12-31T00:00:00.00Z"},
+      {"id": "uuidMS3", "initiativeId": "uuidInitiative2", "startDate":"2018-12-01T00:00:00.00Z", "endDate":"2018-12-31T00:00:00.00Z"}
+    ]
+  }
+}

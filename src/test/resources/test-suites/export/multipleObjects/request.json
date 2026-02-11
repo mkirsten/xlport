@@ -1,0 +1,20 @@
+{
+  "templateId": "template.xlsx",
+  "data": {
+    "Boolean": true,
+    "CompanyBoolean": false,
+    "CompanyFloat": 2141.4,
+    "CompanyId": "cid1",
+    "CompanyInteger": 252454,
+    "CompanyLabel": "Company Name",
+    "CompanyLastUpdated": "2019-02-02T00:00:00.000Z",
+    "Float": -143242.25,
+    "HierarchyId": "hid1",
+    "HierarchyLabel": "Hierarchy Name",
+    "Integer": 114325352,
+    "LastUpdated": "2019-01-01T00:00:00.000Z",
+    "ProjectId": "pid1",
+    "ProjectLabel": "Project Name",
+    "RootId": "elid1"
+  }
+}
